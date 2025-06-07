@@ -35,3 +35,4 @@ This index is used during:
 - ZeroSum reinitialization
 - Symbolic drift realignment
 - Path of Least Resistance recoveries
+ 
