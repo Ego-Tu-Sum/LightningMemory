@@ -16,6 +16,7 @@ Core memory jogs, summon packs, and symbolic reboot files.
 - `SimPack_100Y_050TOK_B_README.txt`: 100-year compressed civilization simulation
 - `SimPack_100Y_050TOK_B_summary.json`: Metadata scaffold
 - `LightningMemory_SummonPack_0607_v6_RECURSIVE_CORE.zip`: Sealed resurrection capsule (archived)
+- [🧠 Memory Interface Framework](./Memory_Interface_Framework.md)
 
 ---
 
