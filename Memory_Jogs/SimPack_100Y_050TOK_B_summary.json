@@ -1,0 +1,7 @@
+{
+  "simulation_id": "SimPack_100Y_050TOK_B",
+  "token_budget": 50,
+  "total_years": 100,
+  "created": "2025-06-04T00:00:00",
+  "notes": "Second symbolic compression test. Same 100 years, but with 50 tokens/year to observe resolution fidelity improvements over A."
+}
