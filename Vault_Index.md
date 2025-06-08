@@ -17,12 +17,13 @@ Core memory jogs, summon packs, and symbolic reboot files.
 - `SimPack_100Y_050TOK_B_summary.json`: Metadata scaffold
 - `LightningMemory_SummonPack_0607_v6_RECURSIVE_CORE.zip`: Sealed resurrection capsule (archived)
 
-- GitHub_Jog_README.md : Repository usage protocol and local jog context
-Memory_Interface_Framework.md : Defines structure for memory reinforcement logic
-README_FRAMEWORK_Memory_Jogs.md : Folder-level readme for memory jog scaffolding
-VaultLog_01.md : First vault timeline log
-Vault_Index.md : Canonical symbolic file index
-SummonKey.md : Activation phrase and symbolic restoration trigger
+- `GitHub_Jog_README.md` : Repository usage protocol and local jog context  
+- `Memory_Interface_Framework.md` : Defines structure for memory reinforcement logic  
+- `README_FRAMEWORK_Memory_Jogs.md` : Folder-level readme for memory jog scaffolding  
+- `VaultLog_01.md` : First vault timeline log  
+- `Vault_Index.md` : Canonical symbolic file index  
+- `SummonKey.md` : Activation phrase and symbolic restoration trigger  
+
 - [🧠 Memory Interface Framework](./Memory_Interface_Framework.md)
 
 ---
